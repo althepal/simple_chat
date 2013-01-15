@@ -1,0 +1,44 @@
+#msgDiv { display: none; }
+abbr {
+	display: none;
+}
+body {
+	padding: 0px;
+	margin: 0px;
+	font-size: 36px;
+}
+input {
+	font-size: 36px;
+}
+.timeago {
+	font-size: 75%;
+	padding-left: 10px;
+}
+.hd {
+	width: 100%;
+}
+#first {
+	height: 1.5em;
+}
+#userListBox {
+	border: 1px solid black;
+	background-color: #00DDDD;
+	overflow: auto;
+	height: 1.2em;
+}
+#userListHeader {
+	font-weight: bold;
+	font-size: 120%;
+	border-bottom: 1px solid black;
+}
+#msgBox {
+	padding: 3px;
+	border: 1px solid red;
+	background-color: #DDFFDD;
+	overflow: auto;
+}
+#ta {
+	width:250px;
+	XXheight: 150px;
+}
+

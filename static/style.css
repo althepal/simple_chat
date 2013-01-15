@@ -1,0 +1,45 @@
+#msgDiv { display: none; }
+.timeago {
+	font-size: 75%;
+	padding-left: 10px;
+}
+.hd {
+	width:300px;
+	height: 400px;
+	float:left;
+	padding: 3px;
+}
+#userListBox {
+	border: 1px solid black;
+	background-color: #FFDDDD;
+	overflow: auto;
+}
+#userListHeader {
+	font-weight: bold;
+	font-size: 120%;
+	border-bottom: 1px solid black;
+}
+#msgBox {
+	border: 1px solid black;
+	background-color: #DDFFDD;
+	overflow: auto;
+}
+#ta {
+	width:250px;
+	XXheight: 150px;
+}
+.error {
+	color: red;
+	font-weight: bold;
+}
+#testui {
+	clear: both;
+	height: 200px;
+	width: 200px;
+	background: #FF4444;
+}
+#progbar {
+	clear: both;
+	width: 300px;
+	height: 20px;
+	background: #444;
